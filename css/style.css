@@ -1,0 +1,113 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+body{
+
+font-family: 'Roboto', sans-serif;
+background:url(../img/1.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+.container
+{
+width: 1140;
+height: 0px auto;
+margin-top: 0PX;
+margin-bottom: 40PX;
+}
+
+.login-from{
+		background-color:#ffff000a ;
+		padding: 30px;
+		margin-left:  250px;
+		margin-right: 250px;
+		margin-bottom: 10px;
+		margin-top: 0px;
+
+
+
+}
+.login-from h2 {
+	text-align: center;
+	color: #f10741;
+	font-size: :10px;
+	text-transform: uppercase;
+	margin: 15px;
+
+}
+
+.login-from img{
+margin: auto;
+display: block;
+width: 150px
+height:75px;
+
+}
+
+
+.from-control{
+
+
+	width: 90%;
+	height:5px;
+	margin-bottom:30px;
+	padding: 15px 15px 15px 15px;
+	background-color:#100303cc;
+	border: none;
+	border-radius: 20px;
+
+
+}
+
+.btn{
+    margin:0px auto;
+	display:block;
+	padding:10px 30px;
+	background-color:#f55905db;
+	border: none;
+	border-radius: 20px;
+	
+
+}
+
+
+.btn:hover{
+
+	box-shadow: 2px 4px 5px yellow;
+}
+
+.btnreg{
+	float: right;
+	margin:0 auto;
+	display:block;
+	padding:10px 30px;
+	background-color:#f55905db;
+	border: none;
+	border-radius: 20px;
+
+}
+.btnreg:hover{
+
+box-shadow: 2px 4px 5px yellow;
+
+
+}
+.btnreset{
+	float: left;
+	margin:0 auto;
+	display:block;
+	padding:10px 30px;
+	background-color:#f55905db;
+	border: none;
+	border-radius: 20px;
+
+
+}
+.btnreset:hover{
+
+	box-shadow: 2px 4px 5px yellow;
+
+}
